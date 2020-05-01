@@ -10,3 +10,6 @@ I will upload the beta version today !
 
 
 The beta version add the possibility of create qcm without the c# program but it is limited to 5 mcq, qnd the MCQ is deleted when you close the app, and the programm don't ignored the caps like the alpha version. 
+
+
+WARNING : DO NOT CREATE MORE THAN 5 MCQ
