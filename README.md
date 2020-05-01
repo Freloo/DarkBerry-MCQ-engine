@@ -1,6 +1,6 @@
 # DarkBerry-MCQ-engine
 
-(CC) Attribution - NonCommercial-NoDerivs 
+
 
 
 This project is a MCQ engine to create and participate at MCQ create by other people. This project is now to a beta version.
